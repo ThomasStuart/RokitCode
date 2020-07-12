@@ -1,0 +1,16 @@
+0.) does the crab robot move when:
+	A.) No sensor  detects movement  
+	B.) One sensor is  detects movement 
+	C.) all sensors detect movement 
+
+1.) which direction does the crab bot move:
+	A.) side to side
+	B.) forward and reverse 
+	C.) all directions
+	D.) no direction 
+
+2.) Yes/No. Do you think we could put 2 motors on the crab bot  ?
+
+3.) Yes/No.  The crab code requires us to use “if statements”. 
+
+4.) what is one feature we can add to the crab bot ? 
