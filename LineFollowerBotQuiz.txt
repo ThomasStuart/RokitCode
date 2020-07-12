@@ -1,0 +1,18 @@
+0.) does the line following robot:
+	A.) follow black lines on a white surface
+	B.) follow white lines on a black surface 
+	C.) follow any color line
+	D.) both A and B 
+
+1.) How does the line follower robot work ?
+	A.)uses IR sensors to determine where to go
+	B.)uses a camera to determine where to go 
+	C.)uses a speaker to determine where to go
+
+2.) what does the count variable hold ?
+
+3.) what does the baseLevel variable hold ? 
+
+4.) how to you create an variable called number in blocky and set it equal to 5
+
+5.) what is the point of the setup function in Arduino  ?
